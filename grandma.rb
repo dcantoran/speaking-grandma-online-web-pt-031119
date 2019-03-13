@@ -18,5 +18,5 @@ if phrase.upcase
 elsif phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 else 
-  return phrase
+  return 
 end
